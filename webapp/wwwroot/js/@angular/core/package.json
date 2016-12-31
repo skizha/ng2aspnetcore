@@ -1,0 +1,51 @@
+{
+  "name": "@angular/core",
+  "version": "2.4.1",
+  "description": "Angular - the core framework",
+  "main": "bundles/core.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/core@2.4.1",
+  "scripts": {},
+  "_shasum": "3a6d2dc7fd86fdebe4febae7eb28abad7d04c76a",
+  "_from": "@angular/core@>=2.4.0 <2.5.0",
+  "_resolved": "https://registry.npmjs.org/@angular/core/-/core-2.4.1.tgz",
+  "_npmVersion": "3.5.3",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "3a6d2dc7fd86fdebe4febae7eb28abad7d04c76a",
+    "tarball": "https://registry.npmjs.org/@angular/core/-/core-2.4.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/core-2.4.1.tgz_1482365937104_0.15595823409967124"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
